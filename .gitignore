@@ -1,0 +1,29 @@
+# Cookie data (sensitive)
+json_cookies/
+working_cookies/
+working_cookies-*/
+failed_cookies/
+cookies/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp scripts
+_fix*.py
+_check*.py
+_test*.py
+_fx*.py
+_trim*.py
+_dedup*.py
+_add_logo*.py
+_tmp*.py
